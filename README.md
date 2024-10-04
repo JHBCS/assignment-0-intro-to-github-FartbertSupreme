@@ -1,8 +1,8 @@
 # :wave: The Basics of GitHub 
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 I am super cool
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to sniff my balls and to jump really high to GitHubs penthouse apartment. We’ll also provide you with cool shoes for further jumping and a few steriods to get you started on our GRIND. 🚀
 
 ## :octocat: Git and GitHub
 
