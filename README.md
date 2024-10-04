@@ -1,8 +1,8 @@
-# :wave: The Ballsack of GitHub 
+# :wave: The Toes of GitHub 
 
 ## 🤓 I am super cool
 
-The goal of this course is to sniff my balls and to jump really high to GitHubs penthouse apartment. We’ll also provide you with cool shoes for further jumping and a few steriods to get you started on our GRIND. 🚀
+The goal of this course is to sniff my Toes and to jump really high to GitHubs penthouse apartment. We’ll also provide you with cool shoes for further jumping and a few steriods to get you started on our GRIND. 🚀
 
 ## :octocat: Git and GitHub
 
